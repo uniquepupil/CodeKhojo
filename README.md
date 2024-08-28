@@ -28,7 +28,7 @@ A search engine that allows users to search for questions based on their query. 
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/oxone-999/Coding-Problem-Search-Engine.git
+   git clone https://github.com/uniquepupil/CodeKhojo.git
 
 2. Install dependencies:
 
