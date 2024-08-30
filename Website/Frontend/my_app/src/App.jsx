@@ -175,6 +175,9 @@ function App() {
             )
           )}
         </div>
+        <footer className="footer">
+          Made by <a href="https://uniquepupil.info/" target="_blank" rel="noopener noreferrer">Parikshit</a>
+        </footer>
       </div>
     </>
   );
